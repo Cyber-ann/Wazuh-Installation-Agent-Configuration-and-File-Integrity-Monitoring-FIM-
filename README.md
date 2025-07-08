@@ -22,7 +22,7 @@ Step 1: Import and Start Wazuh Manager
 I installed both **Windows Server** and the **Wazuh OVA** file and ran both on **VirtualBox**.
 
 📸 **Screenshot Placeholder:**  
-![Windows Agent Connected](./screenshot-3.png)
+![Windows Agent Connected]([./screenshot-3.png](https://github.com/Cyber-ann/Wazuh-Installation-Agent-Configuration-and-File-Integrity-Monitoring-FIM-/blob/5c5c385e9a287875b258d1320719f834b52cf344/wazuh%20ova%20installed%20and%20running%20.png))
 
 ---
 
