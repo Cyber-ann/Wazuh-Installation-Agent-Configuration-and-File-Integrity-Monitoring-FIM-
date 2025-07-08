@@ -31,7 +31,7 @@ I installed both **Windows Server** and the **Wazuh OVA** file and ran both on *
 I accessed the Wazuh web interface and captured a screenshot of the dashboard login page.
 
 📸 **Screenshot Placeholder:**  
-![Windows Agent Connected](./screenshot-3.png)
+![Windows Agent Connected]([./screenshot-3.png](https://github.com/Cyber-ann/Wazuh-Installation-Agent-Configuration-and-File-Integrity-Monitoring-FIM-/blob/0fa751f2c6a8a6b94922741d16ba3c338a4202aa/Wazuh%20-dashboard-login.png))
 
 ---
 
