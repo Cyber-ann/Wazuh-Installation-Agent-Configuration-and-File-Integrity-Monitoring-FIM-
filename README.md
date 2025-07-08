@@ -31,7 +31,7 @@ I installed both **Windows Server** and the **Wazuh OVA** file and ran both on *
 I accessed the Wazuh web interface and captured a screenshot of the dashboard login page.
 
 📸 **Screenshot Placeholder:**  
-![Windows Agent Connected]([./screenshot-3.png](https://github.com/Cyber-ann/Wazuh-Installation-Agent-Configuration-and-File-Integrity-Monitoring-FIM-/blob/0fa751f2c6a8a6b94922741d16ba3c338a4202aa/Wazuh%20-dashboard-login.png))
+![Windows Agent Connected](https://github.com/Cyber-ann/Wazuh-Installation-Agent-Configuration-and-File-Integrity-Monitoring-FIM-/blob/c71ffb97a95c301620f005f65471714e93946f97/Wazuh-dashboard-login.png)
 
 ---
 
@@ -42,7 +42,7 @@ NET START WazuhSvc
 ```
 
 📸 Screenshot Placeholder:
-![Windows Agent Connected](./screenshot-3.png)
+![Windows Agent Connected](https://github.com/Cyber-ann/Wazuh-Installation-Agent-Configuration-and-File-Integrity-Monitoring-FIM-/blob/c71ffb97a95c301620f005f65471714e93946f97/windows-agent-set.png)
 
 ✅ Agent "Windows11" now appears as active in the Wazuh dashboard.
 
@@ -53,7 +53,7 @@ I installed the Wazuh agent on an Ubuntu VM and connected it to the manager.
 The dashboard reflects a successful agent connection.
 
 📸 Screenshot Placeholder:
-![Ubuntu Agent Connected](./screenshot-4.png)
+![Ubuntu Agent Connected](https://github.com/Cyber-ann/Wazuh-Installation-Agent-Configuration-and-File-Integrity-Monitoring-FIM-/blob/c71ffb97a95c301620f005f65471714e93946f97/installed-wazuh-agent-on-ubuntu.png)
  create a maerkdown for this
 
 ---
@@ -65,7 +65,7 @@ I enabled **File Integrity Monitoring** on the Ubuntu agent for the `/etc` direc
 Then I added a text file to `/etc` and observed real-time monitoring from Wazuh.
 
 📸 **Screenshot Placeholder**  
-![FIM Alert - Ubuntu](./screenshot-5.png)
+![FIM Alert - Ubuntu](https://github.com/Cyber-ann/Wazuh-Installation-Agent-Configuration-and-File-Integrity-Monitoring-FIM-/blob/c71ffb97a95c301620f005f65471714e93946f97/enable-fim-on-ubuntu.png)
 
 ---
 
@@ -76,7 +76,7 @@ Then I added a text file to `/etc` and observed real-time monitoring from Wazuh.
 - Then restarted the agent in the Windows VM to apply changes.
 
 📸 **Screenshot Placeholder**  
-![Windows FIM Configured](./screenshot-6.png)
+![Windows FIM Configured](https://github.com/Cyber-ann/Wazuh-Installation-Agent-Configuration-and-File-Integrity-Monitoring-FIM-/blob/c71ffb97a95c301620f005f65471714e93946f97/enable-fim-on-windows.png)
 
 ✅ Wazuh dashboard shows the Windows agent as **active** with FIM enabled.
 
@@ -90,10 +90,7 @@ Then I added a text file to `/etc` and observed real-time monitoring from Wazuh.
 Both actions triggered **FIM alerts**, which were immediately visible in the Wazuh dashboard.
 
 📸 **Screenshot Placeholder – Windows FIM Alert**  
-![FIM Alert - Windows](./screenshot-7.png)
-
-📸 **Screenshot Placeholder – Ubuntu FIM Alert**  
-![FIM Alert - Ubuntu](./screenshot-8.png)
+![FIM Alert - Windows](https://github.com/Cyber-ann/Wazuh-Installation-Agent-Configuration-and-File-Integrity-Monitoring-FIM-/blob/c71ffb97a95c301620f005f65471714e93946f97/fim-alert-on-windows.png)
 
 ---
 
@@ -101,14 +98,14 @@ Both actions triggered **FIM alerts**, which were immediately visible in the Waz
 
 Download the full report (PDF) here:
 
-👉 [**Wazuh_Lab_Report.pdf**]([./Wazuh_Lab_Report.pdf](https://docs.google.com/document/d/1lQLMSIUF0Vjg-WfUgUcTm-ZqCMbL3q8NrYyXhuN-ucY/edit?usp=sharing))
+👉 [**Wazuh_Lab_Report.pdf**](https://docs.google.com/document/d/1lQLMSIUF0Vjg-WfUgUcTm-ZqCMbL3q8NrYyXhuN-ucY/edit?usp=sharing)
 
 ---
 
 ## 👤 Author
 
-**Chinwendu Maryann**  
-SOC Intern | Cybersecurity Enthusiast
+**Umekulume Chinwendu Maryann**  
+SOC Analyst | Cybersecurity Analyst
 
 🔗 _Learning by doing. Building through documentation._
 
